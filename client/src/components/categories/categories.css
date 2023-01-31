@@ -1,0 +1,24 @@
+/* #s10{ */
+/* max-width: 100%;
+max-height: ;
+
+padding-left: 100px; */
+
+/* 
+width: 100%;
+height: 280px;
+object-fit: cover;
+border-radius: 7px;
+} */
+
+#s10{
+
+  position: relative;
+  left: 50px;
+    max-width: 40%;
+}
+
+.d-block {
+ 
+  height: 550px;
+}

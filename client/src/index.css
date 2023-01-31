@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Cairo';
+    src: url('../src/static/Cairo-Black.ttf') format('truetype');
+}
+
+body {
+  font-family: 'Cairo', sans-serif;
+
+}
+
+
+  @import url('https://fonts.googleapis.com/css2?family=Tajawal&display=swap');

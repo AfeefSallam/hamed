@@ -1,0 +1,48 @@
+.header {
+  margin-top: 60px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.headerTitles {
+  font-family: "Lora", serif;
+  color: #444;
+}
+
+.headerTitleSm {
+  position:relative;
+
+ color: rgb(255, 0, 0);
+  bottom: 80px;
+  right: 115px;
+  font-size: px;
+}
+
+.headerTitleLg {
+  position:relative;
+bottom: 40px;
+  font-size: 40px;
+left: 55px;
+color: rgb(10, 10, 2);
+
+}
+
+.headerImgContainer {
+  width: 100%;
+  padding-bottom: 40px;
+margin-top: -37px;
+}
+
+.headerImg {
+  width: 100%;
+}
+
+@media (max-width: 600px) {
+  .headerImgContainer {
+    width: 100%;
+  }
+}
+#arab99{
+  font-family: 'Tajawal', sans-serif;
+}

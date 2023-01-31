@@ -1,0 +1,40 @@
+#rtl {
+    direction: rtl;
+ 
+  }
+  #rtl1 {
+    direction: rtl;
+
+  }
+  #rtl2 {
+    direction: rtl;
+ 
+  }
+  #rtl3  {
+    direction: rtl;
+ 
+  }
+  #rtl4 {
+    direction: rtl;
+ 
+  }
+  #rtl5 {
+    direction: rtl;
+ 
+  }
+  #rtl6 {
+    direction: rtl;
+ 
+  }
+  #rtl0 {
+  visibility: hidden;
+ 
+  }
+
+
+  #arab{
+    font-family: 'Cairo', sans-serif;
+}
+#arab1{
+  font-family: 'Cairo', sans-serif;
+}

@@ -1,0 +1,68 @@
+#liste{
+display: none;
+}
+
+#backImg {
+  border-radius: 10px;
+
+color: rgb(249, 245, 18);
+max-height: 200px;
+
+   
+  }
+
+  #arab{
+    font-family: 'Cairo', sans-serif;
+    border-radius: 10px;
+}
+#arab11{
+  font-family: 'Cairo', sans-serif;
+  border-radius: 10px;
+}
+#arab2{
+  font-family: 'Tajawal', sans-serif;
+  font-weight: 800;
+
+}
+#arab2:hover{
+
+
+  border-radius: 9px;
+  background-color: rgb(219, 234, 13);
+  box-shadow: 0px 0px 10px 5px rgba(50, 17, 235, 0.75);
+}
+
+
+
+#arab3{
+  font-family: 'Cairo', sans-serif;
+}
+#arab4{
+  font-family: 'Cairo', sans-serif;
+}
+#admin{
+  border-radius: 100px;
+  height: 50px;
+  width: 140px;
+margin-right: 10px;
+background-image: url('./img/1\ \(1\).png');
+background-size: contain;
+font-size: 40px;
+font-family: 'Tajawal', sans-serif;
+border-bottom: none;
+text-decoration: none;
+}
+#yy{
+  background-image: url('./img/1\ \(1\).png'); 
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.xx{
+  position: relative;
+  left: 20px;
+ 
+}
+#mansh{
+  position: relative;
+  left: 6px;
+}
