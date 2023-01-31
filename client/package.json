@@ -35,12 +35,9 @@
     "redux-thunk": "^2.3.0"
   },
   "scripts": {
-    "start": "nodemon --watch backend --exec node backend/server.js",
+    "start": "react-scripts --openssl-legacy-provider start",
     "build": "react-scripts --openssl-legacy-provider build",
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "server":"nodemon backend/server.js",
-    "client":"npm start --prefix frontend",
-    "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm install --force --prefix frontend && npm run build --prefix frontend",
+    "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
